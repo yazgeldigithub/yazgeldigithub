@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yazgeldi
 #### I am a Web Developer
-![I am a Web Developer](https://mk0internetcrea180hv.kinstacdn.com/wp-content/uploads/2015/04/banner-web-development.png)
+![I am a Web Developer](http://webtoolfeed.files.wordpress.com/2012/10/bruce-lee-l1.jpg)
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love mountain biking 🚵‍♀
