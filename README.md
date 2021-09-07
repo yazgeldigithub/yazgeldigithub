@@ -16,7 +16,7 @@
 
 [linkedin]: https://linkedin.com/in/yazgeldi-hojayev-733348208/
 
-<br>
+</br>
 ---
 [![Yazgeldi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazgeldigithub)](https://github.com/yazgeldigithub/github-readme-stats)
 
